@@ -1,0 +1,45 @@
+# Processed datasets
+datasets/processed/*.pkl
+datasets/processed/*.csv
+
+# Model checkpoints
+checkpoints/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+
